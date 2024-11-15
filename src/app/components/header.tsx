@@ -1,3 +1,4 @@
+
 import {Navigation} from "@/app/components/navigation"
 
 export const Header = () => {
